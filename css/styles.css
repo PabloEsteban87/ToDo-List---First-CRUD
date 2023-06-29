@@ -1,0 +1,46 @@
+header{
+    height: 300px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.agregar{
+    width: 704px;
+    height: 35px;
+    margin-top: 33px;
+}
+
+.contenedor-ver{
+display: inline-block;
+}
+
+
+
+.ver{
+    width: 635px;
+    height: 35px;
+    margin-top: 2px;
+  
+}
+
+.modificar{
+    padding: 10px;
+    color: white;
+    background-color: rgb(8, 24, 106);
+    margin-left: 5px;
+    height: 35px;
+}
