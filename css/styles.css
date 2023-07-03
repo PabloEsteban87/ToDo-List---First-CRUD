@@ -44,3 +44,16 @@ display: inline-block;
     margin-left: 5px;
     height: 35px;
 }
+
+#tabla{
+background-color: black;
+color: white;
+width: 704px;
+padding: 10px;
+font-size: 19px;
+margin-top: 20px;
+}
+
+img{
+    margin-right: 5px;
+}
